@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">MedicalAppointment</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">BEJELENTKEZÉS</string>
+    <string name="registration">REGISZTRÁCIÓ</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">Email</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="back">Vissza</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="guest_login">BEJELENTKEZÉS VENDÉGKÉNT</string>
+    <string name="google_login">BEJELENTKEZÉS GOOGLE FIÓKKAL</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Infó az orvosról</string>
+    <string name="reservation">Foglalás</string>
+    <string name="call">Hívás</string>
+    <string name="item_phone_placeholder">Telefonszám</string>
+
+    <string-array name="phone_modes">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+
+    <string-array name="doctor_item_names">
+        <item>Dr. Kovács Péter</item>
+        <item>Dr. Nagy Anna</item>
+        <item>Dr. Szabó Gábor</item>
+        <item>Dr. Varga Éva</item>
+        <item>Dr. Barta Zoltán</item>
+        <item>Dr. Horváth Katalin</item>
+        <item>Dr. Farkas János</item>
+        <item>Dr. Lakatos Mária</item>
+        <item>Dr. Papp László</item>
+        <item>Dr. Molnár Judit</item>
+    </string-array>
+
+    <string-array name="doctor_item_phones">
+        <item>+36 1 234 5678</item>
+        <item>+36 1 345 6789</item>
+        <item>+36 1 456 7890</item>
+        <item>+36 1 567 8901</item>
+        <item>+36 1 678 9012</item>
+        <item>+36 1 789 0123</item>
+        <item>+36 1 890 1234</item>
+        <item>+36 1 901 2345</item>
+        <item>+36 1 012 3456</item>
+        <item>+36 1 123 4567</item>
+    </string-array>
+
+    <string-array name="doctor_item_desc">
+        <item>Orgazmológus</item>
+        <item>Belgyógyász</item>
+        <item>Pszichiáter</item>
+        <item>Gyermekorvos</item>
+        <item>Kardiológus</item>
+        <item>Fogorvos</item>
+        <item>Radiológus</item>
+        <item>Szemész</item>
+        <item>Gyógyszerész</item>
+        <item>Önbizalom reanimátor</item>
+    </string-array>
+
+    <array name="doctor_item_rates">
+        <item>4.5</item>
+        <item>3.5</item>
+        <item>4</item>
+        <item>1.5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>2.5</item>
+    </array>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "898733883731",
+    "project_id": "androidappointment-5f85c",
+    "storage_bucket": "androidappointment-5f85c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898733883731:android:b28dfe4f057621b15ae1a6",
+        "android_client_info": {
+          "package_name": "com.example.medicalappointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898733883731-godmjr9jsfsuracquik5fsdg8s5dmovq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medicalappointment",
+            "certificate_hash": "d850c8998ae24273d516baa99b40f13528793672"
+          }
+        },
+        {
+          "client_id": "898733883731-6dava1tpr7pp8hk4nnl01hve94phaorr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZieN0LhNIksTNcE_zmIzIVnJomKi8rZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898733883731-6dava1tpr7pp8hk4nnl01hve94phaorr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/search_bar"
+        android:icon="@drawable/search"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/view_selector"
+        android:icon="@drawable/view_row"
+        android:title="views"
+        app:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/log_out_button"
+        android:orderInCategory="2"
+        android:title="Kijelentkezés"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/settings_button"
+        android:orderInCategory="1"
+        android:title="Beállítás"
+        app:showAsAction="never">
+    </item>
+</menu>
